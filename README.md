@@ -1,16 +1,28 @@
-## Hi there 👋
+# sup, what's cookin'? 👋
 
-<!--
-**Shoaibb9/Shoaibb9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS student exploring **AI, software engineering, and startups**.
 
-Here are some ideas to get you started:
+Currently learning **C/C++, DSA, and AI/ML**, while building projects and messing around with ideas that might actually become something.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like **learning by building**, solving problems, and figuring things out as I go.
+
+ ### 🔨 **what you'll find here**
+
+A bunch of projects, experiments, questionable code, and hopefully some genuinely cool stuff.
+
+I'm not here to just collect certificates and let them gather digital dust.
+
+### 🎯 **the mission**
+
+Get really damn good at computer science.
+
+Build things people actually use.
+
+And eventually look back at this repo and think:
+
+"damn, I really started from here."
+
+🚀 **Currently:** Learn → Build → Break → Fix → Repeat
+
+> *“If you don't take risks, you can't create a future.”*                                       
+>                    — Monkey D. Luffy
